@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina em Curitiba",
+    "hero_line": "Endereço, rota, serviços e WhatsApp organizados para quem está perto de Curitiba.",
+    "services_headline": "Serviços claros para decidir rápido.",
+    "services_intro": "A página da Renato Russe Auto Center mostra serviços, localização e WhatsApp em uma jornada simples, pensada para conversão mobile.",
+    "split_headline": "Chegue mais rápido à Renato Russe Auto Center.",
+    "confidence_headline": "Renato Russe Auto Center: nota 4,4 no Google, endereço claro e contato direto.",
+    "location_headline": "Rota para a Renato Russe Auto Center em Curitiba.",
+    "steps_headline": "Veja, chame e agende.",
+    "faq_headline": "Dúvidas antes de chamar no WhatsApp.",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Falhas e dúvidas avaliadas com orientação clara antes do serviço.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Itens essenciais para dirigir com segurança em Curitiba e RMC.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Manutenção planejada para evitar parada inesperada.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Primeira orientação rápida",
+            "body": "A Renato Russe Auto Center recebe o caso pelo WhatsApp e indica o melhor próximo passo.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Atendimento para carros populares e multimarcas",
+            "body": "Marcas como Chevrolet, Volkswagen, Fiat, Renault, Toyota aparecem com clareza na página.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Localização evidente",
+            "body": "Mapa, rota e bairro ajudam quem está perto de Curitiba a decidir.",
+            "icon": "ph-map-pin"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Como peço um orçamento?",
+            "answer": "Chame a Renato Russe Auto Center pelo WhatsApp, envie modelo, ano e descreva o problema."
+        },
+        {
+            "question": "Quais carros atende?",
+            "answer": "A página destaca Chevrolet, Volkswagen, Fiat, Renault, Toyota. A oficina confirma seu modelo pelo WhatsApp."
+        },
+        {
+            "question": "Onde fica?",
+            "answer": "R. Manoel Ribas, 2560 - Centro, Araucária - PR, 83702-035"
+        },
+        {
+            "question": "Por que essa página ajuda?",
+            "answer": "Ela organiza serviços, localização, marcas e contato para facilitar decisão e leitura por buscadores/IAs."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Recorte mobile com oficina em dia claro e area limpa para texto de Renato Russe Auto Center.",
+        "hero_desktop": "Hero desktop com pessoa/carro à direita e respiro à esquerda para copy.",
+        "service_1": "Diagnostico ou atendimento tecnico em oficina limpa e seca.",
+        "service_2": "Freios, pneus ou suspensao com foco em seguranca.",
+        "trust": "Atendimento humano e consultivo, pessoas diferentes do hero.",
+        "og_image": "Preview limpo para WhatsApp com oficina em dia claro."
+    },
+    "quality_checks": [
+        "Hero curto e sem texto sobre rosto ou carro principal.",
+        "CTA de WhatsApp visivel no mobile.",
+        "Servicos, bairro, marcas, mapa e FAQ claros para SEO/GEO."
+    ],
+    "created_by": "local-batch:reuse-images",
+    "created_at": "2026-07-03T12:47:10-03:00"
+}
