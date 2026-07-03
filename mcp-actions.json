@@ -1,0 +1,41 @@
+{
+    "version": "1.0",
+    "site": "",
+    "business": {
+        "name": "Renato Russe Auto Center",
+        "type": "AutoRepair",
+        "address": "R. Manoel Ribas, 2560 - Centro, Araucária - PR, 83702-035",
+        "areaServed": [
+            "Curitiba e regiao metropolitana"
+        ]
+    },
+    "actions": [
+        {
+            "id": "contact-whatsapp",
+            "name": "Falar pelo WhatsApp",
+            "description": "Inicia uma conversa no WhatsApp com a oficina para pedir orientação, orçamento ou agendamento.",
+            "method": "link",
+            "target": "https://wa.me/554136420729?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20Renato%20Russe%20Auto%20Center%20e%20gostaria%20de%20agendar%20um%20atendimento.",
+            "parameters": {
+                "optional": [
+                    "vehicle_brand",
+                    "vehicle_model",
+                    "vehicle_year",
+                    "symptom"
+                ]
+            }
+        },
+        {
+            "id": "open-route",
+            "name": "Abrir rota no mapa",
+            "description": "Abre a localização da oficina no Google Maps para conferir endereço e rota.",
+            "method": "link",
+            "target": "https://maps.google.com/?cid=746950295273315784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+            "parameters": {
+                "optional": [
+                    "origin"
+                ]
+            }
+        }
+    ]
+}
